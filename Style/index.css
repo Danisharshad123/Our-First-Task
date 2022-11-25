@@ -1,0 +1,111 @@
+.carousel-inner{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 92vh;
+}
+
+nav{
+    background-color: white;
+}
+.navbar-brand{font-family: 'Lobster';
+    font-size: 2rem;
+}
+.nav-link{
+    font-family: 'Lobster';
+    font-size: 1.5rem;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+
+.image-h1{
+    font-family: 'Tiro Telugu';
+    font-size: 4rem;
+    font-weight: 700;
+}
+.image-h4{
+    font-family:'Tiro Telugu' ;
+}
+.btn{
+    font-family: 'Tiro Telugu';
+    background-color: black;
+    /* color: white; */
+}
+.btn:hover{background-color: rgb(233, 233, 233);}
+.content-h2{
+    font-family:'Tiro Telugu' ;
+    margin-top: 10rem;
+    font-weight: 700;
+}
+.content-p{font-family:'Tiro Telugu' ;
+}
+.product-h3{
+    font-family:'Tiro Telugu' ;
+    font-weight: 800;
+    font-size: 2.5rem;
+}
+.product-p{
+    font-family:'Tiro Telugu' ;
+    color: black;
+    font-weight: 550;
+    font-size: 1.1rem;
+}
+
+    
+
+.choose{
+    font-family:'Tiro Telugu' ;
+     font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+.footer:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+
+footer{
+    background-color: white;
+color: black;
+}
+.m{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+/* @media screen and (max-width: 768px){
+    
+    }
+    .hero{
+        height: 30vh;
+    } */
+
+    
+
+
+
+    .hero{
+        background-image: url(../Accets/sam-moghadam-khamseh-fFYgW-zVD2E-unsplash-min.jpg);
+        background-repeat: no-repeat;
+        background-blend-mode: darken;
+        background-position: center;
+        background-size: cover;
+        height: 95vh;
+        margin: auto;
+
+        
+    
+    }
